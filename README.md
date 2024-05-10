@@ -6,5 +6,8 @@ www.dio.me
 - [Marcos Shirafuchi](https://github.com/marcosfshirafuchi)
 # Desafio de projeto da DIO - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
+![image](https://github.com/marcosfshirafuchi/desafio-poo-dio/assets/27399614/d5be3696-215a-4cf8-bbe0-3aeee60b8637)
+
+
 
 
