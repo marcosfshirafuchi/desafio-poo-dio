@@ -6,6 +6,16 @@ import br.com.dio.desafio.dominio.Mentoria;
 import java.time.LocalDate;
 
 public class Main {
+    /**
+     * <h1>Abstraindo um Bootcamp Usando Orientação a Objetos em Java</h1>
+     * Desafio de projeto da DIO
+     * <p>
+     * <b>Note:</b> Desenvolvido na linguagem Java.
+     *
+     * @author  Marcos Ferreira Shirafuchi
+     * @version 1.0
+     * @since   10/05/2024
+     */
     public static void main(String[] args) {
         Curso curso1 = new Curso();
         curso1.setTitulo("curso java");
